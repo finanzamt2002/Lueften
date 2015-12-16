@@ -1,0 +1,14 @@
+{
+	"id": "{14d255e0-0d2e-4bee-896c-b89ecd93a2e5}",
+	"name": "TS_Lueftung",
+	"type": 3,
+	"vendor": "",
+	"aliases": 
+	[
+		"TS_Lueftung"
+	],
+	"parentRequirements": [],
+	"childRequirements": [],
+	"implemented": [],
+	"prefix": ""
+}

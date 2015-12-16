@@ -1,0 +1,15 @@
+{
+	"elements":
+	[
+       { "name": "var1id", "type": "SelectVariable", "caption": "Temp.    innen" },
+       { "name": "var2id", "type": "SelectVariable", "caption": "Feuchte  innen" },
+       { "name": "var3id", "type": "SelectVariable", "caption": "Temp.    aussen" },
+       { "name": "var4id", "type": "SelectVariable", "caption": "Feuchte  aussen" },
+       { "name": "var5id", "type": "SelectVariable", "caption": "Temp. Wand innen" }
+
+	],
+	"actions":
+	[
+
+	]	
+}
